@@ -1,0 +1,198 @@
+.logo1 {
+    position: absolute;
+width: 42px;
+height: 43px;
+left: 23px;
+top: 12px;
+
+background: linear-gradient(90deg, #FFC42A 0%, #F74316 154.76%);
+border-radius: 3px 0px 0px 3px;
+
+}
+.logo2{
+    position: absolute;
+width: 19px;
+height: 19px;
+left: 35px;
+top: 23px;
+
+background: #FFFFFF;
+}
+.home{
+    position: absolute;
+width: 65px;
+height: 20px;
+left: 152px;
+top: 22px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+
+color: #303030;
+
+}
+.about{
+position: absolute;
+width: 65px;
+height: 20px;
+left: 242px;
+top: 22px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+
+color: #303030;
+}
+.contact{
+    
+position: absolute;
+width: 85px;
+height: 20px;
+left: 341px;
+top: 22px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+
+color: #303030;
+
+}
+
+.food{
+    position: absolute;
+    width: 52px;
+    height: 22px;
+    left: 311px;
+    top: 260px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 22px;
+    
+    color: #303030;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rec15{
+    position: absolute;
+width: 210px;
+height: 38px;
+left: 200px;
+top: 249px;
+
+background: #FFB800;
+border-radius: 10px;
+}
+.rec16{
+    position: absolute;
+width: 182px;
+height: 38px;
+left: 90px;
+top: 249px;
+
+background: #FFB800;
+border-radius: 10px;
+}
+.percel{
+    position: absolute;
+width: 55px;
+height: 18px;
+left: 153px;
+top: 257px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 22px;
+
+color: #e27272;
+
+}
+.fast{
+    position: absolute;
+width: 524px;
+height: 168px;
+left: 88px;
+top: 323px;
+
+font-family: Roboto Condensed;
+font-style: normal;
+font-weight: 500;
+font-size: 72px;
+line-height: 84px;
+
+color: #1F1F1F;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.leroem{
+    position: absolute;
+width: 468px;
+height: 66px;
+left: 88px;
+top: 507px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 22px;
+
+color: #303030;
+}
+.book{
+    position: absolute;
+    width: 167px;
+    height: 29px;
+    left: 115px;
+    top: 625px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #FFFFFF;
+}
+.rec12{
+    position: absolute;
+width: 219px;
+height: 59px;
+left: 89px;
+top: 608px;
+
+background: linear-gradient(95.78deg, #FFB800 45.4%, #F74316 106.45%);
+border-radius: 10px;
+}
+.rec1{
+    position: absolute;
+    width: 1107px;
+    height: 981px;
+    left: 796px;
+    top: 21px;
+    
+    background: #FFC42A;
+    border-radius: 50px;
+}
+.delivery{
+    position: absolute;
+    width: 912px;
+    height: 912px;
+    left: 849px;
+    top: 71px;
+    
+    background: url(.png);
+}
